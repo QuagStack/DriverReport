@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverReportTests", "DriverReportTests\DriverReportTests.csproj", "{5A3F4A6F-17DC-49AE-9F8A-238E06FE1946}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverReportProcessor", "DriverReportProcessor\DriverReportProcessor.csproj", "{CD203C43-F852-45A3-9A51-1E2174A0ECB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A3F4A6F-17DC-49AE-9F8A-238E06FE1946}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{5A3F4A6F-17DC-49AE-9F8A-238E06FE1946}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{5A3F4A6F-17DC-49AE-9F8A-238E06FE1946}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{5A3F4A6F-17DC-49AE-9F8A-238E06FE1946}.Release|anycpu.Build.0 = Release|Any CPU
+		{CD203C43-F852-45A3-9A51-1E2174A0ECB3}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{CD203C43-F852-45A3-9A51-1E2174A0ECB3}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{CD203C43-F852-45A3-9A51-1E2174A0ECB3}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{CD203C43-F852-45A3-9A51-1E2174A0ECB3}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

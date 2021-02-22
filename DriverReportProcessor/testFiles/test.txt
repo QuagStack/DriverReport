@@ -1,0 +1,13 @@
+﻿Driver Dan
+Driver Kim
+Driver Michael
+Driver Dillon
+Driver Riga
+
+Trip Dan 07:15 07:45 17.3
+Trip Riga 11:15 06:45 124.3
+Trip Kim 06:15 06:45 24.3
+Trip Dillon 04:22 06:45 80.3
+Trip Kim 07:52 09:45 24.3
+Trip Dan 06:15 06:45 24.3
+
