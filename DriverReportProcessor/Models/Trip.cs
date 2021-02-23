@@ -30,7 +30,7 @@ namespace DriverReportProcessor.Models
                 DrivingAfterMidnight = true;
             }
 
-            AverageSpeed = (TripLength / timeDriven.TotalMinutes) * 10;
+            AverageSpeed = TripLength / (timeDriven.TotalMinutes / 60);
         }
 
     }
